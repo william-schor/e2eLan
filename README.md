@@ -1,29 +1,13 @@
-# Project Title
+# E2E Lan
 
 
-## Getting Started
+Unfinshed! 
 
+ecdhe.py handles Elliptic Curve Diffie Hellman.
 
-### Prerequisites
+By default it uses the secp256k1 curve. 
 
-### Installing
+The commented-out main method in ecdhe.py illustrates how to use it.
 
-
-## Contributing
-
-
-## Versioning
-
-
-## Authors
-
-
-## License
-
-
-## Acknowledgments
-
-* Creators of dependencies
-* Inspiration
-* etc
+Lan comms program is coming along.
 
